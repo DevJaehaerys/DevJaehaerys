@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/39455184-de11-424d-a72d-6c6b01bdcd55" alt="DevJaehaerys Banner" height="600" />
+  <img src="https://github.com/user-attachments/assets/ddff5a5a-598c-4688-92ef-07e01ace7ab2" alt="DevJaehaerys Banner" height="600" />
 </p>
 <h1 align="center">👋 Hi, I’m @DevJaehaerys</h1>
 
