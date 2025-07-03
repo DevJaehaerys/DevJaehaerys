@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ddff5a5a-598c-4688-92ef-07e01ace7ab2" alt="DevJaehaerys Banner" height="600" />
+  <img src="https://github.com/user-attachments/assets/a097c10d-ffe9-4b9f-bc49-7167244e1a6b" alt="DevJaehaerys Banner" height="600" />
 </p>
+
 <h1 align="center">👋 Hi, I’m @DevJaehaerys</h1>
 
 - 👀 I’m interested in **Back-End development**, programming, building application logic  
